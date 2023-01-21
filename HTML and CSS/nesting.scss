@@ -1,0 +1,15 @@
+$color: red;
+$background-color: green;
+
+div {
+    p {
+        color: $color;
+    }
+
+    ul {
+        li {
+            border-bottom: 1px ;
+        }
+        background-color: $background-color;
+    }
+}
